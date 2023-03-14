@@ -1,5 +1,5 @@
 
-## 🚀 About Me
+## 🔹 About Me
 RPA Team Lead & Senior RPA Developer
 
 
