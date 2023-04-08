@@ -1,10 +1,10 @@
-## 🚀 About Me
+##  About Me
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seymenbahtiyar/)
 
 <br>
 
-## 💻 Tech Stack
+##  Tech Stack
 
 
 ![UiPath](https://img.shields.io/badge/-UiPath-orange?style=for-the-badge) ![VB.NET](https://img.shields.io/badge/-VB.NET-blue?style=for-the-badge) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![PowerShell](https://img.shields.io/badge/-PowerShell-%235391FE?style=for-the-badge&logo=powershell&logoColor=white)
@@ -17,7 +17,7 @@
   
 <br>
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
   
 
